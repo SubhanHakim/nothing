@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import voidEntity from '../assets/void_entity.png';
+import voidEntity from '../assets/void_entity.webp';
 import dexIcon from '../assets/dexscreener.svg';
 
 
