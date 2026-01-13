@@ -48,9 +48,9 @@ const SUPPORTERS: Supporter[] = [
     {
         id: 5,
         name: 'Lowkey',
-        handle: '@Kimchi662',
+        handle: '@Lowkeyyrzs',
         image: lowkeyImg,
-        link: 'https://x.com/Truth'
+        link: 'https://x.com/Lowkeyyrzs'
     },
     {
         id: 6,
