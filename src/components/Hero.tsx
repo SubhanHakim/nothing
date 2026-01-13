@@ -3,9 +3,6 @@ import { motion } from 'framer-motion';
 import voidEntity from '../assets/void_entity.png';
 import dexIcon from '../assets/dexscreener.svg';
 
-interface HeroProps {
-    // mounted: boolean; // Removed as per instruction
-}
 
 const SocialButton = ({ href, icon, label, isSvg = false, primary = false }: { href: string; icon: React.ReactNode | string; label: string; isSvg?: boolean; primary?: boolean }) => (
     <motion.a

@@ -2,7 +2,7 @@ import { useEffect, useCallback } from 'react';
 
 // Using a high-tech UI click sound (data URI for performance/no-asset-dependency)
 // This is a short, subtle "click/tick" sound often used in sci-fi interfaces
-const CLICK_SOUND = "data:audio/wav;base64,UklGRiYAAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YQAAAAA=";
+
 // Placeholder above - I will use a real base64 sound string in the next step or load a file if preferred.
 // Actually, let's use a real Oscillator approach for zero-dependency "Tech" sounds to make it fully generative and cool.
 
