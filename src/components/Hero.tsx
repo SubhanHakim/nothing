@@ -122,14 +122,14 @@ export const Hero = () => { // Removed mounted prop
                     >
                         <div className="grid grid-cols-2 gap-4 w-full">
                             <SocialButton
-                                href="https://x.com/nothing_sol"
+                                href="https://x.com/i/communities/2011334559615631787"
                                 icon={<XIcon />}
                                 label="TWITTER"
                             />
                             <SocialButton
-                                href="https://dexscreener.com"
+                                href="#"
                                 icon={dexIcon}
-                                label="DEX"
+                                label="PumpFun"
                                 isSvg
                             />
                         </div>
