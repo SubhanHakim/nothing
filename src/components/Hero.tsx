@@ -127,7 +127,7 @@ export const Hero = () => { // Removed mounted prop
                                 label="X"
                             />
                             <SocialButton
-                                href="#"
+                                href="https://pump.fun/coin/2fdgTQmDkascxLqEqHMbwv8aEjX6QaHTE6F3iZ4Tpump"
                                 icon={dexIcon}
                                 label="PumpFun"
                                 isSvg
