@@ -124,7 +124,7 @@ export const Hero = () => { // Removed mounted prop
                             <SocialButton
                                 href="https://x.com/i/communities/2011334559615631787"
                                 icon={<XIcon />}
-                                label="TWITTER"
+                                label="X"
                             />
                             <SocialButton
                                 href="#"
